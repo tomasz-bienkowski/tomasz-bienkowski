@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on  my own mobile application that retrieves and analyzes logs from a server's API.<br>Continuously expanding my knowledge and improving my skills.<br>Graduated from the Infoshare Academy bootcamp.
+Currently working on my own mobile application 📱 that retrieves and analyzes logs from a server's API 🌐.<br>Continuously expanding my knowledge 📚 and improving my skills 🚀.<br>Graduated from the Infoshare Academy bootcamp
 
 
 ## 🌐 Socials:
