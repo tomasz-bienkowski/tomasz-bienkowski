@@ -11,7 +11,7 @@ Currently working on  my own mobile application that retrieves and analyzes logs
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tomasz-bienkowski&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tomasz-bienkowski&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasz-bienkowski&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tomasz-bienkowski&icon=0&color=0)](https://visitcount.itsvg.in)
