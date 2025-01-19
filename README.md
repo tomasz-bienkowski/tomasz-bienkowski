@@ -1,6 +1,5 @@
-##Hi 👋 My name is Tomasz Bienkowski
+# 💫 Hi 👋 I'm Tomasz Bienkowski
 Currently working on my own mobile application 📱 that retrieves and analyzes logs from a server's API 🌐.<br>Continuously expanding my knowledge 📚 and improving my skills 🚀.<br>Graduated from the Infoshare Academy bootcamp 🌟
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasz-bienkowski-013995316) 
